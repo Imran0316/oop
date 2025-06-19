@@ -22,6 +22,8 @@ class vegetable{
 class tomato extends vegetable{
     
 }
+
+
 $tomato = new tomato("Tomato","red");
 
 
